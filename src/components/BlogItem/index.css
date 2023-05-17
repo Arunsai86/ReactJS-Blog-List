@@ -1,0 +1,9 @@
+.blog-item {
+  width: 100%;
+  border-bottom: 1px solid #9aa5b1;
+  list-style-type: none;
+}
+.each-blog-title {
+  display: flex;
+  justify-content: space-between;
+}
